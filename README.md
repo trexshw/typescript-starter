@@ -4,6 +4,7 @@ A minimal Typescript project setup with:
 
 1. Eslint
 2. Prettier.
+3. Jest
 
 ## Table of Content
 
